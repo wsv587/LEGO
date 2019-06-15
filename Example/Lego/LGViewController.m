@@ -2,11 +2,12 @@
 //  LGViewController.m
 //  Lego
 //
-//  Created by nlgb on 06/15/2019.
-//  Copyright (c) 2019 nlgb. All rights reserved.
+//  Created by wsv587 on 06/15/2019.
+//  Copyright (c) 2019 wsv587. All rights reserved.
 //
 
 #import "LGViewController.h"
+#import "Math.h"
 
 @interface LGViewController ()
 
@@ -17,13 +18,11 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    
+    NSLog(@"%ld", [Math sum:1 num2:2]);
 }
 
 @end
+
+
+

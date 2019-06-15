@@ -1,0 +1,16 @@
+PODS:
+  - Lego (0.1.0)
+
+DEPENDENCIES:
+  - Lego (from `../`)
+
+EXTERNAL SOURCES:
+  Lego:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Lego: 0a3e03bcb42bce5e537df5f64e533b2fe5d3cf36
+
+PODFILE CHECKSUM: 0f7fe010a17c75a1d2f0debf92607cfacdb72465
+
+COCOAPODS: 1.6.1

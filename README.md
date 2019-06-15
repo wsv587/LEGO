@@ -1,6 +1,6 @@
 # Lego
 
-[![CI Status](https://img.shields.io/travis/nlgb/Lego.svg?style=flat)](https://travis-ci.org/nlgb/Lego)
+[![CI Status](https://img.shields.io/travis/wsv587/Lego.svg?style=flat)](https://travis-ci.org/wsv587/Lego)
 [![Version](https://img.shields.io/cocoapods/v/Lego.svg?style=flat)](https://cocoapods.org/pods/Lego)
 [![License](https://img.shields.io/cocoapods/l/Lego.svg?style=flat)](https://cocoapods.org/pods/Lego)
 [![Platform](https://img.shields.io/cocoapods/p/Lego.svg?style=flat)](https://cocoapods.org/pods/Lego)
@@ -22,7 +22,7 @@ pod 'Lego'
 
 ## Author
 
-nlgb, wanggyanmo@163.com
+wsv587, wanggyanmo@163.com
 
 ## License
 

@@ -1,0 +1,22 @@
+{
+  "name": "Lego",
+  "version": "0.1.0",
+  "summary": "A short description of Lego.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nlgb/Lego",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nlgb": "wanggyanmo@163.com"
+  },
+  "source": {
+    "git": "https://github.com/nlgb/Lego.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Lego/Classes/**/*"
+}
