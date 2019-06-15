@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'Lego_Example' do
+  pod 'Lego', :path => '../'
+
+  target 'Lego_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
